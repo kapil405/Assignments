@@ -8,3 +8,7 @@ name = "kapil"          #string or collection of charactear
 gpa = 2.4               #float 
 isStudent = True        #boolean value true or false
 
+print(age)
+print(name)
+print(gpa)
+print(isStudent)
