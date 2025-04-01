@@ -1,0 +1,66 @@
+{
+    "2": {
+        "fname": "rohan",
+        "lname": "bhatt",
+        "contact": "45454545",
+        "subject": {
+            "flutter": {
+                "marks": "34",
+                "fees": "34000"
+            },
+            "python": {
+                "marks": "55",
+                "fees": "60000"
+            }
+        },
+        "faculty": "anjali"
+    },
+    "5": {
+        "fname": "ashok",
+        "lname": "kumar",
+        "contact": "54656566",
+        "subject": {
+            "ui ux": {
+                "marks": "55",
+                "fees": "38000"
+            },
+            "graphics": {
+                "marks": "55",
+                "fees": "38000"
+            }
+        },
+        "faculty": "bhavin"
+    },
+    "4": {
+        "fname": "ram",
+        "lname": "charan",
+        "contact": "435454545",
+        "subject": {
+            "java": {
+                "marks": "34",
+                "fees": "34000"
+            },
+            "python": {
+                "marks": "34",
+                "fees": "34000"
+            }
+        },
+        "faculty": "anjali"
+    },
+    "7": {
+        "fname": "shrey",
+        "lname": "patel",
+        "contact": "545454545",
+        "subject": {
+            "full stack": {
+                "marks": "55",
+                "fees": "100000"
+            },
+            "python": {
+                "marks": "77",
+                "fees": "0"
+            }
+        },
+        "faculty": "anjali"
+    }
+}
